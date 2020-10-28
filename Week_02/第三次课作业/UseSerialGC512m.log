@@ -1,0 +1,15 @@
+Java HotSpot(TM) 64-Bit Server VM (25.231-b11) for windows-amd64 JRE (1.8.0_231-b11), built on Oct  5 2019 03:11:30 by "java_re" with MS VC++ 10.0 (VS2010)
+Memory: 4k page, physical 16578856k(8449292k free), swap 19462440k(8700284k free)
+CommandLine flags: -XX:InitialHeapSize=536870912 -XX:MaxHeapSize=536870912 -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCTimeStamps -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:-UseLargePagesIndividualAllocation -XX:+UseSerialGC 
+2020-10-26T21:37:33.091+0800: 0.344: [GC (Allocation Failure)  139776K->43138K(506816K), 0.0219709 secs]
+2020-10-26T21:37:33.140+0800: 0.393: [GC (Allocation Failure)  182755K->83557K(506816K), 0.1177622 secs]
+2020-10-26T21:37:33.297+0800: 0.550: [GC (Allocation Failure)  223250K->129025K(506816K), 0.0244081 secs]
+2020-10-26T21:37:33.352+0800: 0.604: [GC (Allocation Failure)  268801K->171445K(506816K), 0.0318895 secs]
+2020-10-26T21:37:33.422+0800: 0.675: [GC (Allocation Failure)  311221K->205158K(506816K), 0.0280352 secs]
+2020-10-26T21:37:33.482+0800: 0.735: [GC (Allocation Failure)  344934K->249199K(506816K), 0.0237250 secs]
+2020-10-26T21:37:33.533+0800: 0.785: [GC (Allocation Failure)  388975K->291039K(506816K), 0.0301382 secs]
+2020-10-26T21:37:33.597+0800: 0.849: [GC (Allocation Failure)  430815K->346009K(506816K), 0.0449420 secs]
+2020-10-26T21:37:33.668+0800: 0.921: [Full GC (Allocation Failure)  485765K->274817K(506816K), 0.1107393 secs]
+2020-10-26T21:37:33.832+0800: 1.085: [GC (Allocation Failure)  414293K->324438K(506816K), 0.0173933 secs]
+2020-10-26T21:37:33.904+0800: 1.156: [Full GC (Allocation Failure)  464214K->308494K(506816K), 0.0517547 secs]
+2020-10-26T21:37:33.984+0800: 1.236: [Full GC (Allocation Failure)  448270K->324601K(506816K), 0.0591924 secs]

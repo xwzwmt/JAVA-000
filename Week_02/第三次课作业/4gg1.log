@@ -1,0 +1,17 @@
+Java HotSpot(TM) 64-Bit Server VM (25.231-b11) for windows-amd64 JRE (1.8.0_231-b11), built on Oct  5 2019 03:11:30 by "java_re" with MS VC++ 10.0 (VS2010)
+Memory: 4k page, physical 16578856k(6936856k free), swap 20448432k(4186960k free)
+CommandLine flags: -XX:InitialHeapSize=4294967296 -XX:MaxHeapSize=4294967296 -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCTimeStamps -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseG1GC -XX:-UseLargePagesIndividualAllocation 
+2020-10-27T13:37:16.189+0800: 0.293: [GC pause (G1 Evacuation Pause) (young) 204M->62M(4096M), 0.0086960 secs]
+2020-10-27T13:37:16.220+0800: 0.325: [GC pause (G1 Evacuation Pause) (young) 240M->115M(4096M), 0.0089487 secs]
+2020-10-27T13:37:16.251+0800: 0.356: [GC pause (G1 Evacuation Pause) (young) 293M->177M(4096M), 0.0104162 secs]
+2020-10-27T13:37:16.282+0800: 0.387: [GC pause (G1 Evacuation Pause) (young) 355M->229M(4096M), 0.0113301 secs]
+2020-10-27T13:37:16.313+0800: 0.418: [GC pause (G1 Evacuation Pause) (young) 407M->285M(4096M), 0.0142861 secs]
+2020-10-27T13:37:16.345+0800: 0.450: [GC pause (G1 Evacuation Pause) (young) 463M->345M(4096M), 0.0133978 secs]
+2020-10-27T13:37:16.379+0800: 0.484: [GC pause (G1 Evacuation Pause) (young) 523M->403M(4096M), 0.0113960 secs]
+2020-10-27T13:37:16.412+0800: 0.516: [GC pause (G1 Evacuation Pause) (young) 603M->462M(4096M), 0.0131330 secs]
+2020-10-27T13:37:16.462+0800: 0.568: [GC pause (G1 Evacuation Pause) (young) 730M->540M(4096M), 0.0169644 secs]
+2020-10-27T13:37:16.549+0800: 0.655: [GC pause (G1 Evacuation Pause) (young) 954M->649M(4096M), 0.0237824 secs]
+2020-10-27T13:37:16.611+0800: 0.715: [GC pause (G1 Evacuation Pause) (young) 981M->742M(4096M), 0.0204561 secs]
+2020-10-27T13:37:16.680+0800: 0.785: [GC pause (G1 Evacuation Pause) (young) 1186M->859M(4096M), 0.0242709 secs]
+2020-10-27T13:37:16.760+0800: 0.865: [GC pause (G1 Evacuation Pause) (young) 1363M->983M(4096M), 0.0277969 secs]
+2020-10-27T13:37:16.856+0800: 0.961: [GC pause (G1 Evacuation Pause) (young) 1571M->1103M(4096M), 0.0286526 secs]
