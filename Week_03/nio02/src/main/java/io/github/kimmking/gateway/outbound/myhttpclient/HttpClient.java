@@ -18,6 +18,7 @@ import org.apache.http.impl.client.HttpClientBuilder;
 import org.apache.http.util.EntityUtils;
 
 import java.io.IOException;
+import java.util.Map;
 
 import static io.netty.handler.codec.http.HttpResponseStatus.NO_CONTENT;
 import static io.netty.handler.codec.http.HttpResponseStatus.OK;
@@ -30,6 +31,9 @@ public class HttpClient {
         CloseableHttpClient httpClient = HttpClientBuilder.create().build();
         // 创建Get请求
         HttpGet httpGet = new HttpGet("http://localhost:8808/"+fullRequest.uri());
+        for (Map.Entry<String, String> head : fullRequest.headers()){
+            httpGet.addHeader(head.getKey(),head.getValue());
+        }
 
         // 响应模型
         CloseableHttpResponse response = null;
