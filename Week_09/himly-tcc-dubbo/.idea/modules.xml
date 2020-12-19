@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/account/demo (1) (com.account).iml" filepath="$PROJECT_DIR$/account/demo (1) (com.account).iml" />
+      <module fileurl="file://$PROJECT_DIR$/transaction/demo (2) (com.transaction).iml" filepath="$PROJECT_DIR$/transaction/demo (2) (com.transaction).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/himly-tcc-dubbo.iml" filepath="$PROJECT_DIR$/.idea/himly-tcc-dubbo.iml" />
+    </modules>
+  </component>
+</project>
